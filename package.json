@@ -1,0 +1,29 @@
+{
+  "name": "react-native-rn-gtl-realmdb",
+  "version": "1.0.0",
+  "description": "## Getting started",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Gateway Corp (VishalGadhiya)",
+  "license": "ISC",
+  "peerDependencies": {
+    "react-native": "^0.41.2",
+    "react-native-windows": "0.41.0-rc.1"
+  },
+  "dependencies": {
+    "realm": "^2.29.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishal-gtl/rn-realm-db.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vishal-gtl/rn-realm-db/issues"
+  },
+  "homepage": "https://github.com/vishal-gtl/rn-realm-db#readme"
+}
