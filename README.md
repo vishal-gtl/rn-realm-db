@@ -53,7 +53,9 @@ RealmHelper;
 create singlton of "RealmHelper" 
 let realmHelper = RealmHelper.getInstance();
 
-Now you can perform all realm databse operation using "realmHelper", please see the example
+Now you can perform all realm databse operation using "realmHelper", 
+Example: https://github.com/vishal-gtl/rn-realm-db/tree/master/rn_realm_db_demo
+This demo tested in android emulator.
 
 
 
